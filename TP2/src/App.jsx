@@ -1,5 +1,7 @@
-import { BrowserRouter, Routes, Route } from 'react-router'; // corregido: 'react-router-dom'
+import { BrowserRouter, Routes, Route } from 'react-router'; 
 import Home from './pages/Home';
+import '@fortawesome/fontawesome-free/css/all.min.css';
+
 
 
 function App() {
